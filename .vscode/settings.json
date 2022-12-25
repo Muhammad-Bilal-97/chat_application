@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "dart.previewHotReloadOnSaveWatcher": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "dart.enableSdkFormatter": true,
+  "eslint.format.enable": true,
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
